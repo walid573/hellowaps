@@ -628,6 +628,8 @@ nav{
         height: 312px;
         display: flex;
         margin-right: 670px;
+
+        
         .box{
             color: #FFFF;
             margin-top: 85px;
